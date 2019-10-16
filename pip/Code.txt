@@ -1,0 +1,27 @@
+AAR
+  This is a package implements the artificial autoregressive diagnostic method and other diagnostic methods for Bayesian hierarchical models. Current version supports R 3.4.* or above/JAGS 4.0.x or above.
+
+RStochastic
+  This is an R package allowing illustrative examples for different kinds of stochastic processes. 
+  (1)Limiting behavior of finite state Markov chain or some game theory models. 
+  (2)Limiting behavior of Dirichlet processes and its mixtures. This is part of the project The Definition of a Dirichlet Process that I completed earlier. 
+  (3)Limiting behavior of Gaussian processes with various correlation functions.
+  (4)Non-stationary Gaussian Process.
+  (5)Sparse Gaussian Process with customized pseudo-inputs.
+  (6)*(upcoming) Multiple tracks of stochastic processes with different parameter settings.
+Current version supports 32/64-bit machines installed with R 3.4.* or above.
+Picture Comparison
+  This is a VS-based software which conducted content-based(pixel-wise) search for picture files using a couple of simple popular statistical learning methods (pixel score/averaging). Current version supports 64-bit/32-bit machines and .gif/.jpeg files.
+*I am transplanting it to a Python-based software at the moment.
+
+Edgeworth Expansion
+  This is an R package [CRAN] that calculated the Edgeworth Expansion with adjusted numerical accuracy.
+
+DocOn
+  This is a VS-based software which realizes automatic content-based re-naming. Current version supports 32-bit machines and .doc/.rtf/.txt files.
+?
+?Namer
+  This is a VS-based software which realizes drag-and-drop re-naming. Current version supports 32-bit machines.
+
+SquareCraft
+  This is a real time strategy(RTS) game I built around 2008-2012, which incorporated QTE system and most RTS features using the light-weight ActionScript3.x language.  The product is a cross-platform(Windows/Linux/Symbian)  executable game which also provides a framework flexible enough to add more customizations later. It is more of memorial purpose that I put it here. :-)
